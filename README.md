@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Designer
 -------------------------------
 
-A skilled software developer with a passion for creating innovative, user-centric digital solutions that deliver exceptional experiences. With a strong foundation in JavaScript, React, PostgreSQL, and Node.js, I specialize in designing scalable web and mobile applications. Leveraging a year of hands-on experience in Agile and Scrum environments, I have contributed to projects ranging from performance management systems to e-commerce platforms. My commitment to staying updated with emerging technologies, such as TypeScript and Go, ensures that I bring cutting-edge solutions to every project. Dedicated to transforming ideas into impactful digital products, I thrive in collaborative and dynamic settings.
+Hi I'm software developer with a passion for creating innovative, user-centric digital solutions that deliver exceptional experiences. With a strong foundation in JavaScript, React, PostgreSQL, and Node.js, I specialize in designing scalable web and mobile applications. Leveraging a year of hands-on experience in Agile and Scrum environments, I have contributed to projects ranging from performance management systems to e-commerce platforms. My commitment to staying updated with emerging technologies, such as TypeScript and Go, ensures that I bring cutting-edge solutions to every project. Dedicated to transforming ideas into impactful digital products, I thrive in collaborative and dynamic settings.
 
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [https://nigelpetargue.vercel.app/](http://nigelpetargue.vercel.app/)
