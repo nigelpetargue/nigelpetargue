@@ -10,7 +10,7 @@ Hi I'm software developer with a passion for creating innovative, user-centric d
 *   🖥️  See my portfolio at [https://nigelpetargue.vercel.app/](http://nigelpetargue.vercel.app/)
 *   ✉️  You can contact me at [nigelpetargue@gmail.com](mailto:nigelpetargue@gmail.com)
 *   🚀  I'm currently working on [Sclique Technologies Website](http://scliquetechnologies.site)
-*   🧠  I'm learning Python Language
+*   🧠  I'm learning Artificial Intelligence
 *   🤝  I'm open to collaborating on Web Development
 *   ⚡  Passionate about learning, problem-solving, and turning ideas into impactful solutions. Always ready to embrace new challenges and technologies!### Skills 
 <p align="left">
